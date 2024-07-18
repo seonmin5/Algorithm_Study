@@ -11,8 +11,21 @@ Python
 - 오프라인 회의로 코드 리뷰 진행
 - 불참시 혼남
 
-## 👨‍👩‍👧‍👦 Contributors
-- 안찬웅
+## 👨‍👩‍👧‍👦 스티디원
+<table>
+  <tr>
+    <td height="140px" align="center"> <a href="https://github.com/AnChanUng"> <img src="https://avatars.githubusercontent.com/u/104750924?v=4" width="140px" />
+      <br /> 안찬웅</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/HyeminKim-kr"> <img src="https://avatars.githubusercontent.com/u/58822591?v=4" width="140px" />
+      <br /> 김혜민</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/seonmin5"> <img src="https://avatars.githubusercontent.com/u/82851869?v=4" width="140px" />
+      <br /> 오선민</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/kimchang0"> <img src="https://avatars.githubusercontent.com/u/64997303?v=4" width="140px" />
+      <br /> 김창영</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/gusdk19"> <img src="https://avatars.githubusercontent.com/u/128590006?v=4" width="140px" />
+      <br /> 이현아</a></td>
+  </tr>
+</table>
 
 ## ❓ 참여 방법
 1. 이 저장소를 fork 한다.
