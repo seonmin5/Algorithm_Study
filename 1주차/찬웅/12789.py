@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 n = int(input())
 numbers = list(map(int, input().split()))
 
@@ -7,15 +10,11 @@ for number in numbers:
     while stack and stack[-1] == order:
         stack.pop()
         order += 1
-        print("stackpop", stack)
-        print("order", order)
     
     if number == order:
         order += 1
-        print("order", order)
     else:
         stack.append(number)
-        print("stack", stack)
 
 while stack and stack[-1] == order:
     stack.pop()
